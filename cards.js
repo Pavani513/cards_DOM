@@ -242,7 +242,7 @@ const data= [
   ]
   
 
-let colors=["pink","skyblue","indigo","orangered","lightcoral","pink","skyblue","indigo","orangered","lightcoral","pink","skyblue","indigo","orangered","lightcoral","pink","skyblue","indigo","orangered","lightcoral"]
+let colors=["pink","skyblue","lightcoral","indigo","orangered","pink","skyblue","lightcoral","indigo","orangered","pink","skyblue","lightcoral","indigo","orangered","pink","skyblue","lightcoral","indigo","orangered"]
 
 let j=0;
 data.forEach(x=>{
